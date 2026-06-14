@@ -124,7 +124,8 @@ A detailed prompt can help AI build a complete interactive application, not just
 ✅ Day 4 Completed  
 ✅ Day 5 Completed  
 ✅ Day 6 Completed  
-✅ Day 7 Completed  ✅ Day 8 Completed
+✅ Day 7 Completed  
+   ✅ Day 8 Completed
 
 ## 🌱 Future Focus
 
